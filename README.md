@@ -11,20 +11,6 @@ It includes:
 
 ---
 
-## 📁 Project Structure
-
-📦 Superstore-Sales-Analysis-Dashboard
-┣ 📂 data
-┃ ┗ clean_superstore.csv
-┣ 📂 notebooks
-┃ ┗ Superstore_EDA_RF_Model.ipynb
-┣ 📂 powerbi
-┃ ┗ Superstore_Dashboard.pbix
-┗ README.md
-
-
----
-
 ## 🔧 Tools & Technologies
 
 - **Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)**
@@ -103,7 +89,7 @@ DAX measures used:
 
 ---
 
-## 🔍 Insights
+## Insights
 
 - Technology segment generates the highest revenue.  
 - Furniture has high sales but low profit margin.  
