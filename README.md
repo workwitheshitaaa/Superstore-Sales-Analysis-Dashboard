@@ -11,6 +11,15 @@ It includes:
 
 ---
 
+## Dataset
+
+This project uses the **Superstore Dataset**, a popular retail sales dataset.
+
+🔗 Dataset Source (Kaggle):  
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?select=Sample+-+Superstore.csv
+
+---
+
 ## 🔧 Tools & Technologies
 
 - **Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)**
